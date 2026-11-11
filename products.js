@@ -13,7 +13,7 @@
 // Keep a comma after every } except you may skip it on the last one.
 
 window.PRODUCTS = [
-  { name: "zara long sleeve top", price: 13, type: "thrift", description: "structured,flattering fit, size SM.", photo: "zaralongsleeve,jpg", color: "#3f5a58", shape: "top" },
+  { name: "zara long sleeve top", price: 13, type: "thrift", description: "structured,flattering fit, size SM.", photo: "zaralongsleeve.jpg.jpg", color: "#3f5a58", shape: "top" },
   { name: "brass signet ring", price: 22, type: "thrift", description: "Worn smooth, adjustable fit.", photo: "", color: "#c49a3a", shape: "ring", sold: true },
   { name: "hand-thrown bud vase", price: 34, type: "made", description: "Speckled clay, glazed inside.", photo: "", color: "#9a6a45", shape: "vase" },
   { name: "silk slip dress", price: 39, type: "thrift", description: "Soft ivory, size S, bias cut.", photo: "", color: "#9fb3c6", shape: "dress" },
